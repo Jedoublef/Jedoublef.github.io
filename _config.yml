@@ -13,8 +13,8 @@ timezone: Asia/Taipei
 
 # URL
 ## Set your site url here. For example, if you use GitHub Page, set url as 'https://username.github.io/project'
-url: https://Jedoublef.github.io/nfa.github.io/
-root: /nfa.github.io/
+url: https://nfa.github.io/
+root: /
 permalink: :year/:month/:day/:title/   # 文章永久連結的格式
 permalink_defaults:
 pretty_urls:
